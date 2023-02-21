@@ -1,0 +1,19 @@
+{
+    "name": "evan64g/chat-php",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/functions/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Evan",
+            "email": "evan64g@protonmail.com"
+        },
+        {
+            "name": "Sabri",
+            "email": "abdesselem.sabri@outlook.com"
+        }
+    ],
+    "require": {}
+}
